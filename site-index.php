@@ -47,10 +47,31 @@
 
         <section class="grader-notes">
             <h3>Notes to grader</h3>
-            <   p></p>
+            <p></p>
         </section>
     </section>
 
+
+        <!-- #######################################################################-->
+<section class="lab-layout">
+        <h2 class="header">Lab Two - Setting up topic</h2>
+        <section class="public-files">
+            <h3>Public Files</h3>
+            <p><a href="LAB 2.php">home page</a></p>
+        </section>
+
+        <section class="supporting-files">
+            <h3>Supporting files</h3>
+            <p></p>
+        </section>
+
+        <section class="grader-notes">
+            <h3>Notes to grader</h3>
+            <p></p>
+        </section>
+    </section>
+
+        
     </body>
 
     </html>
